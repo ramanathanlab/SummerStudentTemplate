@@ -22,7 +22,7 @@ Note: jupyter notebooks should be stored in the `notebooks` folder
 TODO: Descirption of any data you have stored in the `data/` folder.
 
 # Notes
-Any other comments or open issues
+TODO: Any other comments or open issues
 
 # Tips
 For extra help on the following topics, please see the links below:
