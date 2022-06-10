@@ -1,2 +1,25 @@
 # SummerStudentTemplate
-TODO: Update with a brief project description
+TODO: Update with a brief project description and repository name
+
+# Installation & Setup
+TODO: Update with a description of which commands you use to setup your software, including any installation steps.
+
+You can use example code blocks like these:
+```
+conda create -n myenv python=3.9
+conda activate myenv
+```
+
+# Running the code
+TODO: Update with a description of which commands you use to run your software.
+
+If your code is stored in jupyter notebooks, then specify which notebook you run here.
+
+Note: jupyter notebooks should be stored in the `notebooks` folder
+
+
+# Data
+TODO: Descirption of any data you have stored in the `data/` folder.
+
+# Notes
+ Optional setting with any other comments or open issues
