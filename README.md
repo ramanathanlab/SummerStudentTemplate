@@ -23,3 +23,9 @@ TODO: Descirption of any data you have stored in the `data/` folder.
 
 # Notes
  Optional setting with any other comments or open issues
+
+# Tips
+For extra help on the following topics, please see the links below:
+- GitHub: https://skills.github.com/
+- Linux/GitHub/ComputerScience: https://missing.csail.mit.edu/
+- Python: https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln 
