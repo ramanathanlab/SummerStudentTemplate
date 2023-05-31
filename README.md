@@ -27,6 +27,7 @@ TODO: Any other comments or open issues
 # Tips
 For extra help on the following topics, please see the links below:
 - GitHub: https://skills.github.com/
+- UC Berkeley Python & Data Science: https://www.data8.org/sp23/
 - Linux/GitHub/ComputerScience: https://missing.csail.mit.edu/
 - Python: https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln
 - More Python: https://youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
